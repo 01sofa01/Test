@@ -1,0 +1,2 @@
+Zofia Bargieła  
+Khrystyna Koshova
