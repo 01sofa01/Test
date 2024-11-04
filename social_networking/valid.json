@@ -2,8 +2,9 @@
     "name": "Youtube",
     "netWorth": 31.7,
     "value": "billion",
-    "users": 2,
+    "users": 2b,
     "isCharting": true,
+    "creationDate": 2005,
     "contentGenres": ["videos", "shorts", "live streams", "topics"],
     "premiumFeatures" : {
         "no_ads": true,
