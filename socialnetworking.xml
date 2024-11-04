@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socialnetworkingsites>
+    <YouTube>
+        <networth>31.7</networth>
+        <value>billion</value>
+        <chart>2</chart>
+        <users>2.9b</users>
+    </YouTube>
+    <Instagram>
+        <networth>200</networth>
+        <value>billion</value>
+        <chart>4</chart>
+        <users>1b</users>
+    </Instagram>
+    <Whatsapp>
+        <networth>98.56</networth>
+        <value>billion</value>
+        <chart>3</chart>
+        <users>2b</users>
+    </Whatsapp>
+    <TikTok>
+        <networth>84</networth>
+        <value>billion</value>
+        <chart>5</chart>
+        <users>500m</users>
+    </TikTok>
+    <Snapchat>
+        <networth>21.02</networth>
+        <value>billion</value>
+        <chart>6</chart>
+        <users>238.65m</users>
+    </Snapchat>
+    <Facebook>
+        <networth>200</networth>
+        <value>billion</value>
+        <chart>1</chart>
+        <users>2.26b</users>
+    </Facebook>
+</socialnetworkingsites>
