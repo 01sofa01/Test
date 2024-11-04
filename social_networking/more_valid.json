@@ -1,0 +1,44 @@
+{
+    "Top 1": {
+        "name": "Facebook",
+        "netWorth": 200,
+        "value": "billion",
+        "users": "2.26b",
+        "creationDate": 2004
+    },
+    "Top 2": {
+        "name": "Youtube",
+        "netWorth": 31.7,
+        "value": "billion",
+        "users": "2.9b",
+        "creationDate": 2005
+    },
+    "Top 3": {
+        "name": "Whatsapp",
+        "netWorth": 98.56,
+        "value": "billion",
+        "users": "1.33b",
+        "creationDate": 2009
+    },
+    "Top 4": {
+        "name": "Instagram",
+        "netWorth": 200,
+        "value": "billion",
+        "users": "1b",
+        "creationDate": 2010
+    },
+    "Top 5": {
+        "name": "TikTok",
+        "netWorth": 84,
+        "value": "billion",
+        "users": "500m",
+        "creationDate": 2016
+    },
+    "Top 6": {
+        "name": "Snapchat",
+        "netWorth": 21.02,
+        "value": "billion",
+        "users": "238.65m",
+        "creationDate": 2011
+    }
+}
