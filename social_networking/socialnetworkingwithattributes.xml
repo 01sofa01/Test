@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<socialnetworkingsites>
+    <YouTube id='000' creationDate='2005'>
+        <networth>31.7</networth>
+        <value>billion</value>
+        <chart>2</chart>
+        <users>2.9b</users>
+    </YouTube>
+    <Instagram id='001' creationDate='2010'>
+        <networth>200</networth>
+        <value>billion</value>
+        <chart>4</chart>
+        <users>1b</users>
+    </Instagram>
+    <Whatsapp id='002' creationDate='2009'>
+        <networth>98.56</networth>
+        <value>billion</value>
+        <chart>3</chart>
+        <users>2b</users>
+    </Whatsapp>
+    <TikTok id='003' creationDate='2016'>
+        <networth>84</networth>
+        <value>billion</value>
+        <chart>5</chart>
+        <users>500m</users>
+    </TikTok>
+    <Snapchat id='004' creationDate='2011'>
+        <networth>21.02</networth>
+        <value>billion</value>
+        <chart>6</chart>
+        <users>238.65m</users>
+    </Snapchat>
+    <Facebook id='005' creationDate='2004'>
+        <networth>200</networth>
+        <value>billion</value>
+        <chart>1</chart>
+        <users>2.26b</users>
+    </Facebook>
+</socialnetworkingsites>
